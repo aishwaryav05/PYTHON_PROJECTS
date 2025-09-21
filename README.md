@@ -46,11 +46,10 @@ Welcome to my **Python Projects Portfolio**! This repository showcases a collect
 git clone https://github.com/AishwaryaV/Python-Projects.git
 
 2.Navigate to the project folder:
-bash
-Copy code
+
 cd Python-Projects
 
-3.Run any project using Python:
-bash
-Copy code
+
+3. Run any project using Python:
+
 python <project_filename>.py
